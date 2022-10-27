@@ -10,6 +10,7 @@
 <li>Conteúdo customizado para o usuário logado</li>
 <li>Refresh token</li>
 <li>Pré-autorização de métodos</li>
+<li>Utilização do Postman</li>
 </ul>
 
 <div align="center">
