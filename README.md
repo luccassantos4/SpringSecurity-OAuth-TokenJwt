@@ -1,6 +1,6 @@
 # SpringSecurity-OAuth-TokenJwt
 
-<h3> Bootcamp Spring </h3>
+<h3> Bootcamp Spring DevSuperior </h3>
 
 <ul>
 <li>Implementação de um modelo de domínio complexo (projeto DSLearn)</li>
